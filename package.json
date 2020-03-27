@@ -3,7 +3,7 @@
   "description": "Trie-based URL Routing",
   "version": "1.0.3",
   "dependencies": {
-    "flatten": "~0.0.1",
+    "flatten": "~1.0.3",
     "http-assert": "1"
   },
   "devDependencies": {
