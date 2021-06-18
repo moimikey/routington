@@ -7,7 +7,7 @@
     "http-assert": "1"
   },
   "devDependencies": {
-    "mocha": "1",
+    "mocha": "9",
     "should": "4",
     "matcha": "0",
     "istanbul": "0"
